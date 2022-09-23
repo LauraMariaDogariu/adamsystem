@@ -108,7 +108,7 @@ in Romania, in order to stimulate scientific excellence in Romanian research.</s
 <p class=MsoNormal style='line-height:106%;text-autospace:ideograph-other'><b><span
 style='font-family:"Times New Roman",serif;color:black'>Funding Institution:</span></b><i><span
 style='font-family:"Times New Roman",serif;color:black'>&nbsp;Executive Unit
-for Higher Education, Research, Development, and Innovation Funding (UEFISCDI)</span></i></p>
+for Higher Education, Research, Development and Innovation Funding (UEFISCDI)</span></i></p>
 
 <p class=MsoNormal style='line-height:106%;text-autospace:ideograph-other'><b><span
 style='font-family:"Times New Roman",serif;color:black'>Project code:</span></b><i><span
@@ -121,21 +121,21 @@ lang=DE-AT style='font-family:"Times New Roman",serif'> 246.950,00 lei</span></p
 <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal><span style='font-family:"Times New Roman",serif;color:red'>Last
-update: 09.2022</span></p>
+update: 11.2021</span></p>
 
-<p class=MsoNormal><span style='font-family:"Times New Roman",serif;color:red'>&nbsp;</span></p>
+<p class=MsoNormal><b><span lang=DE-AT style='font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
 
 <p class=MsoNormal><b><span style='font-family:"Times New Roman",serif'>Research
 team:</span></b></p>
 
 <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>Project
-manager:          </span><a href="http://comm.pub.ro/ldogariu/"><span
+manager:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </span><a href="http://comm.pub.ro/ldogariu/"><span
 style='font-family:"Times New Roman",serif'>&#536;.l.dr.ing. Laura-Maria
 Dogariu</span></a><span style='font-family:"Times New Roman",serif'>&nbsp;-&nbsp;</span><a
 href="https://scholar.google.com/citations?hl=ro&amp;user=X-IaIq4AAAAJ"><span
 style='font-family:"Times New Roman",serif'>Google Scholar profile</span></a></p>
 
-<p class=MsoNormal><span style='font-family:"Times New Roman",serif'>Mentor:                         </span><a
+<p class=MsoNormal><span style='font-family:"Times New Roman",serif'>Mentor: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </span><a
 href="http://comm.pub.ro/paleologu/"><span style='font-family:"Times New Roman",serif'>Prof.dr.ing.
 Constantin Paleologu</span></a><span style='font-family:"Times New Roman",serif'>
 </span><a
@@ -160,8 +160,8 @@ shorter, easier to identify impulse responses. In addition, specific properties
 of the systems, such as the sparsity, could be used to simplify the problem.
 However, solutions have been proposed so far only for second and third order
 tensors. Motivated by the good performance of these solutions (developed during
-the PhD studies of the project leader), the project aims to provide a general framework
-for multilinear system identification, by using tensor modelling and
+the PhD studies of the project leader), the project aims to provide a general
+framework for multilinear system identification, by using tensor modelling and
 decompositions. The solution will be applied first in the context of the Wiener
 filter, then for the main categories of adaptive filters, i.e., the
 least-mean-square (LMS) algorithm, the affine projection algorithm (APA), and a
@@ -186,69 +186,45 @@ style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
 <p class=MsoNormal><b><span style='font-family:"Times New Roman",serif'>Dissemination
 results</span></b><span style='font-family:"Times New Roman",serif'>:</span></p>
 
-<p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt'><span
+<p class=MsoNormal><b><span lang=RO style='font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
 style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b><span lang=RO style='font-family:"Times New Roman",serif'>Journal
 papers:</span></b></p>
 
-<ol style='margin-top:0cm' start=1 type=1>
- <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>A.
-     C. Becker, E. V. Kuhn, M. V. Matsuo, J. Benesty, C. Paleologu, L.-M.
-     Dogariu, and S. Ciochin&#259;, “Stochastic model for the LMS algorithm
-     with symmetric/antisymmetric properties,” <i>Symmetry</i>, vol. 14(9),
-     p.1908 (11 pages), Sept. 2022 – <span style='background:yellow'>ISI Q2</span>.</span></li>
- <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>L.-M.
-     Dogariu, J. Benesty, C. Paleologu, and S. Ciochin&#259;, “Identification
-     of room acoustic impulse responses via Kronecker product decompositions,” <i>IEEE-ACM
-     Transactions on Audio, Speech, And Language Processing</i>, vol. 30, pp.
-     2828-2841, 2022, WOS:000852841100004 – <span style='background:red'>ISI Q1</span>.</span></li>
- <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>I.
-     D. Fîciu, J. Benesty, L.-M. Dogariu, C. Paleologu, S. Ciochin&#259;,
-     “Efficient algorithms for linear system identification with particular
-     symmetric filters,” <i>Applied Sciences</i>, vol. 12(9), p.</span> <span
-     style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>4263
-     (26 pages), April 2022, WOS:000794561600001 - <span style='background:
-     yellow'>ISI Q2</span>.</span></li>
-</ol>
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify'><span
+style='font-size:10.0pt;line-height:107%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<p class=MsoListParagraphCxSpFirst style='margin-bottom:10.0pt;text-align:justify;
-text-indent:-18.0pt;line-height:150%'><span style='font-family:"Times New Roman",serif'>4.<span
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:10.0pt;text-align:
+justify;text-indent:-18.0pt;line-height:150%'><span style='font-family:"Times New Roman",serif'>1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
 style='font-family:"Times New Roman",serif'>L.-M. Dogariu, J. Benesty, C.
-Paleologu, and S. Ciochin&#259;, “An insightful overview of the Wiener filter
-for system identification,” <i>Applied Sciences</i>, vol. 11, p. 7774, August
-2021</span><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>,
-WOS:000694165800001</span><span style='font-family:"Times New Roman",serif'> - <span
-style='background:yellow'>ISI Q2</span>.</span></p>
+Paleologu, and S. Ciochin&#259;, "An insightful overview of the Wiener filter
+for system identification," <i>Applied Sciences</i>, vol. 11, p. 7774, August
+2021 - <span style='background:yellow'>ISI Q2</span>.</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:10.0pt;text-align:
-justify;text-indent:-18.0pt;line-height:150%'><span style='font-family:"Times New Roman",serif'>5.<span
+justify;text-indent:-18.0pt;line-height:150%'><span style='font-family:"Times New Roman",serif'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
 style='font-family:"Times New Roman",serif'>J. Benesty, C. Paleologu, L.-M.
-Dogariu, and S. Ciochin&#259;, “Identification of linear and bilinear systems:
-a unified study,” <i>Electronics</i>, vol. 10, p. 1790, July 2021</span><span
-style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>,
-WOS:000681959500001</span><span style='font-family:"Times New Roman",serif'> – <span
-style='background:lightgrey'>ISI Q3</span>.</span></p>
+Dogariu, and S. Ciochin&#259;, "Identification of linear and bilinear systems: a
+unified study," <i>Electronics</i>, vol. 10, p. 1790, July 2021 - ISI.</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:10.0pt;text-align:
-justify;text-indent:-18.0pt;line-height:150%'><span style='font-family:"Times New Roman",serif'>6.<span
+justify;text-indent:-18.0pt;line-height:150%'><span style='font-family:"Times New Roman",serif'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
 style='font-family:"Times New Roman",serif'>L.-M. Dogariu, C. Paleologu, J.
-Benesty, C.-L. Stanciu, C.-C. Oprea, and S. Ciochin&#259;, “A Kalman filter for
-multilinear forms and its connection with tensorial adaptive filters,” <i>Sensors</i>,
-vol. 21(10), p. 3555, May 2021, WOS:000662590100001 - <span style='background:
-red'>ISI Q1</span>.</span></p>
+Benesty, C.-L. Stanciu, C.-C. Oprea, and S. Ciochin&#259;, "A Kalman filter for
+multilinear forms and its connection with tensorial adaptive filters," <i>Sensors</i>,
+vol. 21(10), p. 3555, May 2021 - <span style='background:red'>ISI Q1</span>.</span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-align:justify;
-text-indent:-18.0pt;line-height:150%'><span style='font-family:"Times New Roman",serif'>7.<span
+text-indent:-18.0pt;line-height:150%'><span style='font-family:"Times New Roman",serif'>4.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
 style='font-family:"Times New Roman",serif'>L.-M. Dogariu, C.-L. Stanciu, C.
-Elisei-Iliescu, C. Paleologu, J. Benesty, and S. Ciochin&#259;, “Tensor-based
-adaptive filtering algorithms,” <i>Symmetry</i>, vol. 13, no. 3, p. 481, March
+Elisei-Iliescu, C. Paleologu, J. Benesty, and S. Ciochin&#259;, "Tensor-based
+adaptive filtering algorithms," <i>Symmetry</i>, vol. 13, no. 3, p. 481, March
 2021, DOI: 10.3390/sym13030481, WOS:000634166700001 - <span style='background:
 yellow'>ISI Q2</span>.</span></p>
 
@@ -257,90 +233,43 @@ yellow'>ISI Q2</span>.</span></p>
 <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt'><span
 style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><b><span style='font-family:"Times New Roman",serif'>Conference
-papers:</span></b><a name="_Hlk87628499"></a></p>
+papers:</span></b></p>
 
 <ol style='margin-top:0cm' start=1 type=1>
  <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>J.
-     Benesty, L.-M. Dogariu, C. Paleologu, and S. Ciochin&#259;, “An iterative
-     Wiener filter for stereophonic acoustic echo cancellation,” accepted for
-     publication in <i>the</i></span> <i><span style='font-size:12.0pt;
-     line-height:150%;font-family:"Times New Roman",serif'>Asilomar Conference
-     on Signals, Systems, and Computers</span></i><span style='font-size:12.0pt;
-     line-height:150%;font-family:"Times New Roman",serif'>, online, Oct.-Nov.
-     2022 </span><span style='font-family:"Times New Roman",serif'>- ISI.</span></li>
- <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>L.-M.
-     Dogariu, J. Benesty, C. Paleologu, and S. Ciochin&#259;, “An iterative
-     Wiener filter for the identification of impulse responses with particular
-     symmetric properties,” accepted for publication in <i>the 11th edition of
-     the International Conference &quot;Advanced Topics in Optoelectronics,
-     Microelectronics and Nanotechnologies&quot; (ATOM)</i>, Constanta, Romania,
-     August 2022 </span><span style='font-family:"Times New Roman",serif'>-
-     ISI.</span></li>
- <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>A.-G.
-     Rusu, L.-M. Dogariu, R.-L. Costea, C. Paleologu, J. Benesty, and S.
-     Ciochin&#259;, “A variable step-size affine projection algorithm based on
-     data reuse,” accepted for publication in <i>the IEEE 45th International
-     Conference on Telecommunications and Signal Processing (TSP)</i>, online,
-     July 2022 </span><span style='font-family:"Times New Roman",serif'>- ISI.</span></li>
- <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>L.-M.
-     Dogariu, C. Paleologu, J. Benesty, S. Ciochin&#259;, E. V. Kuhn, A. C.
-     Becker, and M. V. Matsuo, “An affine projection algorithm for the
-     identification of impulse responses with symmetric/antisymmetric
-     characteristics,” accepted for publication in <i>the IEEE 45th
-     International Conference on Telecommunications and Signal Processing (TSP)</i>,
-     online, July 2022 </span><span style='font-family:"Times New Roman",serif'>-
-     ISI.</span></li>
- <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>L.-M.
-     Dogariu, C. Paleologu, J. Benesty, and S. Ciochin&#259;, “On the
-     performance of a data-reuse fast RLS algorithm for acoustic echo
-     cancellation,” accepted for publication in <i>the IEEE 10th International
-     Black Sea Conference on Communications and Networking (BlackSeaCom)</i>,
-     Sofia, Bulgaria, June 2022 </span><span style='font-family:"Times New Roman",serif'>-
-     ISI.</span></li>
- <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif'>J.
-     Benesty, L.-M. Dogariu, C. Paleologu, and S. Ciochin&#259;, “Efficient
-     Identification of Acoustic Linear Systems,” in <i>Proc. the IEEE 14th
-     International Conference on Communications (COMM)</i>, online, June 2022 </span><span
-     style='font-family:"Times New Roman",serif'>- ISI.</span></li>
- <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-family:"Times New Roman",serif'>I.-D. Ficiu, C.-L.
-     Stanciu, L.-M. Dogariu, C. Elisei-Iliescu, and C. Paleologu, “Tensor-based
-     recursive least-squares algorithm with low computational complexity,” in <i>Proc.
-     the 15th International Conference on Sensor Technologies and Applications
-     (SENSORCOMM)</i>, Athens, Greece, November 2021.</span></li>
+     150%'><a name="_Hlk87628499"><span style='font-family:"Times New Roman",serif'>I.-D.
+     Ficiu, C.-L. Stanciu, L.-M. Dogariu, C. Elisei-Iliescu, and C. Paleologu,
+     "Tensor-based recursive least-squares algorithm with low computational
+     complexity," in <i>Proc. the 15th International Conference on Sensor
+     Technologies and Applications (SENSORCOMM)</i>, Athens, Greece, November
+     2021.</span></a></li>
  <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
      150%'><span style='font-family:"Times New Roman",serif'>L.-M. Dogariu, C.
-     Paleologu, J. Benesty, and S. Ciochin&#259;, “Improved affine projection
-     algorithm for the identification of multilinear forms,” in <i>Proc. IEEE the
+     Paleologu, J. Benesty, and S. Ciochin&#259;, "Improved affine projection
+     algorithm for the identification of multilinear forms," in <i>Proc. IEEE the
      27th International Symposium for Design and Technology in Electronic
      Packaging (SIITME)</i>, online, October 2021 - ISI.</span></li>
  <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
      150%'><span style='font-family:"Times New Roman",serif'>A.-G. Rusu, L.-M. Dogariu,
-     S. Ciochin&#259;, and C. Paleologu, “A data-reuse approach for an optimized
-     LMS algorithm,” in <i>Proc. IEEE the 11th Conference on Speech Technology
+     S. Ciochin&#259;, and C. Paleologu, "A data-reuse approach for an optimized
+     LMS algorithm," in <i>Proc. IEEE the 11th Conference on Speech Technology
      and Human-Computer Dialogue (SpeD)</i>, online, October 2021 - ISI.</span></li>
  <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-     150%'><span style='font-family:"Times New Roman",serif'>L.-M. Dogariu, C. Paleologu,
-     J. Benesty, and S. Ciochin&#259;, “Identification of multilinear forms
-     with the tensorial Kalman filter,” in <i>Proc. IEEE the 44th International
-     Conference on Telecommunications and Signal Processing (TSP)</i>, online,
-     July 2021 - ISI.</span></li>
+     150%'><span style='font-family:"Times New Roman",serif'>L.-M. Dogariu, C.
+     Paleologu, J. Benesty, and S. Ciochin&#259;, "Identification of
+     multilinear forms with the tensorial Kalman filter," in <i>Proc. IEEE the
+     44th International Conference on Telecommunications and Signal Processing (TSP)</i>,
+     online, July 2021 - ISI.</span></li>
  <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
      150%'><span style='font-family:"Times New Roman",serif'>L.-M. Dogariu, C.
-     Elisei-Iliescu, C. Paleologu, J. Benesty, and S. Ciochin&#259;, “A
-     tensorial affine projection algorithm,” in <i>Proc. IEEE the 15-th
+     Elisei-Iliescu, C. Paleologu, J. Benesty, and S. Ciochin&#259;, "A
+     tensorial affine projection algorithm," in <i>Proc. IEEE the 15-th
      International Symposium on Signals, Circuits and Systems (ISSCS)</i>,
      Iasi, Romania, July 2021 - ISI.</span></li>
  <li class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
      150%'><span style='font-family:"Times New Roman",serif'>I.-D. Ficiu, L.-M.
-     Dogariu, C.-L. Stanciu, and C. Paleologu, “<a name="_Hlk72263007">Identification
-     of multilinear forms using combinations of adaptive algorithms</a>,” in <i>Proc.
+     Dogariu, C.-L. Stanciu, and C. Paleologu, "<a name="_Hlk72263007">Identification
+     of multilinear forms using combinations of adaptive algorithms</a>," in <i>Proc.
      the Sixth International Conference on Advances in Signal, Image and Video
      Processing (SIGNAL)</i>, Valencia, Spain, June 2021.</span></li>
 </ol>
